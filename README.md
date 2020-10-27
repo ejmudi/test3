@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 [![Build Status](https://travis-ci.com/ejmudi/test3.svg?branch=main)](https://travis-ci.com/ejmudi/test3)
+[![codecov](https://codecov.io/gh/ejmudi/test3/branch/master/graph/badge.svg)](https://codecov.io/gh/ejmudi/test3)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
