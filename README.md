@@ -7,7 +7,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 1. 
-Check [#2-install--run-application](Install & Run application) for scrolling.
+Check <a id="2-install--run-application">Install & Run application</a> for scrolling.
 
 ## Available Scripts
 
